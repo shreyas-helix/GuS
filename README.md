@@ -1,6 +1,6 @@
 # Gesture Unlock
 
-Embedded gesture-based authentication system for the **STM32F429I-Discovery** board, built as part of **NYU Tandon EC-GY-6483 (Real-Time Embedded Systems)**.
+Embedded gesture-based authentication system for the **STM32F429I-Discovery** board.
 
 Wave or rotate the onboard gyroscope to enroll a secret gesture, then repeat it later to unlock the device. The LCD touchscreen drives setup and unlock flows; LEDs provide immediate pass/fail feedback.
 
