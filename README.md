@@ -9,8 +9,6 @@ Wave or rotate the onboard gyroscope to enroll a secret gesture, then repeat it 
 | Name | NetID |
 |------|-------|
 | Shreyas Kootiganahalli Venugopal | sk12200 |
-| Regan Zhu | xz4089 |
-| Akasha Tigalappanavara | at5854 |
 
 ## Hardware
 
