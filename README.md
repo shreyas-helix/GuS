@@ -4,12 +4,6 @@ Embedded gesture-based authentication system for the **STM32F429I-Discovery** bo
 
 Wave or rotate the onboard gyroscope to enroll a secret gesture, then repeat it later to unlock the device. The LCD touchscreen drives setup and unlock flows; LEDs provide immediate pass/fail feedback.
 
-## Team
-
-| Name | NetID |
-|------|-------|
-| Shreyas Kootiganahalli Venugopal | sk12200 |
-
 ## Hardware
 
 | Component | Details |
